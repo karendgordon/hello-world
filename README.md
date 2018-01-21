@@ -10,3 +10,5 @@ Let's try this one more time.
 1639 Now I'm editing in WordPad in my GitHub folder - opened in Explorer from desktop.
 
 1647 Now I'm editing directly in my GitHub folder - using WordPad. 
+
+1658 edited in WordPad
