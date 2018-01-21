@@ -12,3 +12,5 @@ Let's try this one more time.
 1647 Now I'm editing directly in my GitHub folder - using WordPad. 
 
 1658 edited in WordPad
+
+1707 delete extra folder
