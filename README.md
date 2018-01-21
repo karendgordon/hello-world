@@ -7,4 +7,6 @@ It's 1501 now and I'm editing readme in Atom. Plan is to save the edits and then
 
 Let's try this one more time.
 
-1639 Now I'm editing in WordPad in my GitHub folder - opened in Explorer from desktop 
+1639 Now I'm editing in WordPad in my GitHub folder - opened in Explorer from desktop.
+
+1647 Now I'm editing directly in my GitHub folder - using WordPad. 
