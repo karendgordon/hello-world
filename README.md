@@ -17,4 +17,7 @@ Let's try this one more time.
 
 1718 just adding another line
 
-1728 adding line with vpn active
+1728 adding line with vpn active - no couldn't publish
+
+Monday
+1422 creating a couple of branches - 1st one now
